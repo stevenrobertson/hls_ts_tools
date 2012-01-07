@@ -80,5 +80,6 @@ every 10 seconds or so, the slice sizes will be silly.
 Gotta write it first.
 
 [aduro]: http://aduro.strobe.cc/
+[sheep]: http://electricsheep.org/
 [hlswiki]: http://en.wikipedia.org/wiki/HTTP_Live_Streaming
 [hlsapple]: http://developer.apple.com/resources/http-streaming/
